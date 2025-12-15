@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Love CV</title>
-    <link>https://zyknight.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Love CV</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://zyknight.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>https://zyknight.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://zyknight.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;h3 id=&#34;address&#34;&gt;Address&lt;/h3&gt;
 &lt;p&gt;Hefei University of Technology, Danxia Road, Hefei, China.&lt;/p&gt;
 &lt;h3 id=&#34;email&#34;&gt;Email&lt;/h3&gt;
@@ -20,6 +20,9 @@
 &lt;p&gt;&lt;a href=&#34;mailto:yzhao@hfut.edu.cn&#34;&gt;yzhao@hfut.edu.cn&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;news&#34;&gt;NEWS&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Yang Zhao received the 2020-2024 best reviewer of JIG; 2025 best reviewer of CE&amp;amp;S.&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Our ICME2025 paper received the best student paper nomination.&lt;/p&gt;
 &lt;/li&gt;
@@ -30,16 +33,13 @@
 &lt;p&gt;Yang Zhao received the Springer Nature Editor of Distinction Awards, The Author Service Award 2025.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Yang Zhao received the Outstanding Contribution Award for Youth Work (1/1), CSIG, 2024.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Our MFDIN method ranked 1st in the MSU Deinterlacing Benchmark. (2021.10-2024.12)&lt;/p&gt;</description>
+&lt;p&gt;Yang Zhao received the Outstanding Contribution Award for Youth Work (1/1), CSIG, 2024.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Recruitment</title>
-      <link>https://zyknight.github.io/recruitment/</link>
+      <link>http://localhost:1313/recruitment/</link>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://zyknight.github.io/recruitment/</guid>
+      <guid>http://localhost:1313/recruitment/</guid>
       <description>&lt;h3 id=&#34;招生宣传-长期有效-赵洋老师课题组招收优秀硕士博士生&#34;&gt;招生宣传 (长期有效) 赵洋老师课题组招收优秀硕士、博士生&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;赵洋 | &lt;a href=&#34;mailto:yzhao@hfut.edu.cn&#34;&gt;yzhao@hfut.edu.cn&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;热爱计算机视觉、热爱动漫游戏&lt;/p&gt;
@@ -48,7 +48,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;研究方向&lt;/strong&gt;：&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;超高清视频处理、 空间视频生成与处理、 自动驾驶、 AIGC大模型&lt;/p&gt;
+&lt;p&gt;空间视频生成与处理、 超高清视频处理、 AIGC模型&lt;/p&gt;
 &lt;p&gt;我们会根据学生兴趣、科研项目、工作规划等具体协商研究方向与研究内容&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;招生要求&lt;/strong&gt;：&lt;/li&gt;
@@ -78,9 +78,9 @@
     </item>
     <item>
       <title>赵洋 Yang Zhao</title>
-      <link>https://zyknight.github.io/mycv/</link>
+      <link>http://localhost:1313/mycv/</link>
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://zyknight.github.io/mycv/</guid>
+      <guid>http://localhost:1313/mycv/</guid>
       <description>&lt;h3 id=&#34;教授-prof&#34;&gt;教授 Prof.&lt;/h3&gt;
 &lt;h3 id=&#34;合肥工业大学-hefei-university-of-technology-hfut&#34;&gt;合肥工业大学 Hefei University of Technology (HFUT)&lt;/h3&gt;
 &lt;p&gt;计算机与信息学院 / 人工智能学院&lt;/p&gt;
@@ -95,25 +95,25 @@
     </item>
     <item>
       <title>Selected Publications</title>
-      <link>https://zyknight.github.io/publications/</link>
+      <link>http://localhost:1313/publications/</link>
       <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://zyknight.github.io/publications/</guid>
+      <guid>http://localhost:1313/publications/</guid>
       <description>&lt;h3 id=&#34;recent&#34;&gt;RECENT&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;S. Diao, Y. Zhao*, Y. Chen, W. Jia, R. Wang, Multi-Layer Gaussian Splatting for Single-Image Feed-Forward Spatial Scene Reconstruction, ACM International Conference on Multimedia (ACM MM), 2025, pp.1-9.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;F. Fan, Y. Zhao*, Y. Chen, N. Li, W. Jia, R. Wang, Local Texture Pattern Estimation for Image Detail Super-Resolution, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025. &lt;a href=&#34;https://github.com/SolitaryManF/LTPEN&#34;&gt;code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;F. Fan, Y. Zhao*, Y. Chen, N. Li, W. Jia, R. Wang, Local Texture Pattern Estimation for Image Detail Super-Resolution, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 47, no. 6, pp. 4517-4534, 2025. &lt;a href=&#34;https://github.com/SolitaryManF/LTPEN&#34;&gt;code&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;J. Jin, C. Zhao, R. Zhang, S. Shang, J. Xu, J. Zhang, S. Wang, Y. Zhao, S. Ding, W. Jia, Y. Wu, Diff-Palm: Realistic Palmprint Generation with Polynomial Creases and Intra-Class Variation Controllable Diffusion Models, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fundings</title>
-      <link>https://zyknight.github.io/fundings/</link>
+      <link>http://localhost:1313/fundings/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://zyknight.github.io/fundings/</guid>
+      <guid>http://localhost:1313/fundings/</guid>
       <description>&lt;h3 id=&#34;research-projects&#34;&gt;RESEARCH PROJECTS&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -130,9 +130,9 @@
     </item>
     <item>
       <title>Patents and Software</title>
-      <link>https://zyknight.github.io/patents/</link>
+      <link>http://localhost:1313/patents/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://zyknight.github.io/patents/</guid>
+      <guid>http://localhost:1313/patents/</guid>
       <description>&lt;h3 id=&#34;china-patents&#34;&gt;China Patents&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -164,10 +164,10 @@
     </item>
     <item>
       <title>YANG ZHAO</title>
-      <link>https://zyknight.github.io/aboutme/</link>
+      <link>http://localhost:1313/aboutme/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://zyknight.github.io/aboutme/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;figure1&#34; loading=&#34;lazy&#34; src=&#34;https://zyknight.github.io/../assets/figure/YZHaoCartoon.png&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/aboutme/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;figure1&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/../assets/figure/YZHaoCartoon.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Prof.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Hefei University of Technology (China)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;School of Computer and Information / School of Artificial Interlligence&lt;/p&gt;
